@@ -1,1 +1,3 @@
-module "cinema-library"
+module cinema-library
+
+go 1.16
